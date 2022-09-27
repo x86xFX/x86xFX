@@ -15,3 +15,5 @@
 
 # GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x86xFX&theme=dracula)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=x86xFX&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
