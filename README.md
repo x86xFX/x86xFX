@@ -11,6 +11,6 @@
 ![Java](https://camo.githubusercontent.com/6cbecd63a9a8f83ee186885c446938820ffa8304942a284ee6e1e2acb2bfd822/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465) ![KOTLIN](https://camo.githubusercontent.com/cdf0b26edbf443b16d9b2357b76f8557d527e4d80625fb844d5342462d654e9a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6b6f746c696e2d2532333030393544352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6f746c696e266c6f676f436f6c6f723d7768697465)
 
 # GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x86xFX&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x86xFX&theme=tokyonight&hide_border=true&layout=compact)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=x86xFX&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
