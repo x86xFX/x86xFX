@@ -6,8 +6,21 @@
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/0xFF__)
 
 # 💻Tech Stack
-![KOTLIN](https://skillicons.dev/icons?i=androidstudio)
-![Java](https://camo.githubusercontent.com/6cbecd63a9a8f83ee186885c446938820ffa8304942a284ee6e1e2acb2bfd822/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465)
+![Android Studio](https://skillicons.dev/icons?i=androidstudio)
+![Figma](https://skillicons.dev/icons?i=figma)
+![Google Cloud](https://skillicons.dev/icons?i=gcp)
+![Idea](https://skillicons.dev/icons?i=idea)
+![Java](https://skillicons.dev/icons?i=java)
+![Kotlin](https://skillicons.dev/icons?i=kotlin)
+![Ktor](https://skillicons.dev/icons?i=ktor)
+![Linux](https://skillicons.dev/icons?i=linux)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![postman](https://skillicons.dev/icons?i=postman)
+![gradle](https://skillicons.dev/icons?i=gradle)
+![firebase](https://skillicons.dev/icons?i=firebase)
+![docker](https://skillicons.dev/icons?i=docker)
+![nextjs](https://skillicons.dev/icons?i=nextjs)
 
 # GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x86xFX&theme=tokyonight&hide_border=true&layout=compact)
