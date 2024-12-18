@@ -1,6 +1,5 @@
 #### 👋 Hey There
-
-<img src="https://github-readme-stats.vercel.app/api?username=x86xFX&&show_icons=true&theme=tokyonight&hide_border=true">
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=x86xFX&bg_color=000000&color=fe8686&line=5e2721&point=ff1100&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🌐Socials
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/0xFF__)
